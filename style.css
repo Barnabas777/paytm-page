@@ -1,0 +1,231 @@
+.nav{
+	/*border: 1px solid red;*/
+	text-align: center
+	}
+.nav a{
+	text-decoration: none;
+	color: black;
+	vertical-align: middle;
+	font-size: 20px;
+	padding: 1%;
+}
+.signin{
+	border: 1px solid skyblue;
+	border-radius: 20px;
+}
+.section1{
+	font-size: 25px;
+	text-align: center;
+}
+.two{
+	/*border: 1px solid red;*/
+	height: 40px;
+	background-color: #f6f6f6;
+}
+.section2{
+	/*border: 1px solid red;*/
+	display: flex;
+	justify-content: space-between;
+}
+.India{
+	font-family: 'Poppins', sans-serif;
+	font-size: 60px;
+}
+.recharge{
+	font-size: 30px;
+}
+.app{
+	border: 1px solid black;
+	width: 30%;
+	border-radius: 20px;
+	padding: 10px;
+	color: white;
+	background-color: black;
+	text-decoration: none;
+}
+.app:hover{
+	color: black;
+	background-color: white;
+}
+.paybills{
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	font-size: 36px;
+	background-color: #00bbf2;
+}
+.sec3{
+	margin-top: 9%;
+	/*border:1px solid red;*/
+	padding: 5px;
+	background-color: #00bbf2;
+}
+.rec{
+	/*border:1px solid red ;*/
+	display: flex;
+	margin: 10px;
+}
+.rec1{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.rent{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.ele{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.dth{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.cyn{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.cre{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.all{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.rec1,.rent,.ele,.dth,.cyn,.cre,.all{
+	border-radius: 20px;
+	width: 10% !important;
+	margin: 30px;
+	color: white;
+	background-color: #00bbf2;
+}
+.book{
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	font-size: 36px;
+}
+.sec4{
+	/*border:1px solid red;*/
+	padding: 5px;
+	background-color: #0f4b8a;
+}
+.buy{
+	/*border:1px solid red ;*/
+	display: flex;
+	margin: 10px;
+}
+.movie{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.flight{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.bus{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.train{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.ins{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.int{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.inv{
+	/*border:1px solid red ;*/
+	width: 15%;
+	text-align: left;
+	line-height: 7px;
+	font-family: 'Poppins', sans-serif;
+}
+.movie, .flight, .bus, .train, .ins, .int, .inv{
+	border-radius: 20px;
+	width: 10% !important;
+	margin: 30px;
+	color: white;
+	background-color: #0f4b8a;
+}
+.sec5{
+	border: 1px solid red;
+	background-color: #f5f7fa;
+}
+.s5head{
+	font-size: 50px;
+	font-family: 'Poppins', sans-serif;
+	margin: 7% 12% 4% 4%;
+}
+.s5d1{
+	border: 1px solid red;
+	width: 70%;
+}
+.s5p1{
+	border: 1px solid red;
+	display: flex;
+	background-color: white;
+}
+.wallet{
+	border: 1px solid red;
+	width: 50%;
+	display: flex;
+	font-family: 'Poppins', sans-serif;
+}
+.pw{
+	margin-top: 20%;
+}
+.fast{
+	font-size: 35px;
+	font-family: 'Poppins', sans-serif;
+}
+.fpara{
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+
