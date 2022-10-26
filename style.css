@@ -47,6 +47,9 @@
 	color: black;
 	background-color: white;
 }
+.learnmore:hover{
+	background-color: #0f4b8a;
+}
 .paybills{
 	font-family: 'Poppins', sans-serif;
 	color: white;
@@ -201,31 +204,135 @@
 	margin: 7% 12% 4% 4%;
 }
 .s5d1{
-	border: 1px solid red;
-	width: 70%;
+	/*border: 1px solid red;*/
+	width:90%;
 }
 .s5p1{
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	display: flex;
+	border-radius: 20px;
+	width: 80%;
+	padding: 6%;
+	margin-left: 50px;
 	background-color: white;
 }
 .wallet{
-	border: 1px solid red;
-	width: 50%;
+	/*border: 1px solid red;*/
+	width: 30%;
 	display: flex;
 	font-family: 'Poppins', sans-serif;
 }
 .pw{
-	margin-top: 20%;
+	margin-top: 10%;
 }
 .fast{
 	font-size: 35px;
 	font-family: 'Poppins', sans-serif;
 }
 .fpara{
-	font-size: 15px;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 15%;
+}
+.walletimg{
+	margin-left: 10%;
+}
+.s5d2{
+	/*border: 1px solid red;*/
+	width:92%;
+}
+.s5p2{
+	/*border: 1px solid red;*/
+	display: flex;
+	border-radius: 20px;
+	width: 80%;
+	padding: 6%;
+	margin-top: 50px;
+	margin-left: 50px;
+	background-color: white;
+}
+.upi{
+	/*border: 1px solid red;*/
+	width: 40%;
+	display: flex;
 	font-family: 'Poppins', sans-serif;
 }
-
+.upii{
+	margin-top: 10%;
+}
+.pay{
+	font-size: 35px;
+	font-family: 'Poppins', sans-serif;
+}
+.paypara{
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 8%;
+}
+.paid{
+	margin-left: 10%;
+}
+.s5d3{
+	/*border: 1px solid red;*/
+	width:85%;
+}
+.s5p3{
+	/*border: 1px solid red;*/
+	display: flex;
+	border-radius: 20px;
+	width: 80%;
+	padding: 6%;
+	margin-top: 50px;
+	margin-left: 50px;
+	background-color: white;
+}
+.post{
+	/*border: 1px solid red;*/
+	width: 80%;
+	display: flex;
+	margin-bottom: 30px;
+	font-family: 'Poppins', sans-serif;
+}
+.want{
+	font-size: 35px;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 30px;
+}
+.wantpara{
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 8%;
+}
+.bag{
+	margin-left: 10%;
+}
+.learnmore{
+	border: 1px solid #00bbf2;
+	width: 70%;
+	font-size: 20px;
+	border-radius: 30px;
+	padding: 10px;
+	color: white;
+	background-color: #00bbf2;
+	text-decoration: none;
+	font-family:'Poppins', sans-serif ;
+}
+.hdfc{
+	border: 1px solid red;
+	border-radius: 20px;
+	margin-top: 40px;
+	background-color: white;
+	width: 40%;
+	margin-left: 50px;
+	padding: 5% 2% 0% 4%;
+}
+.unlimit{
+	font-family:'Poppins', sans-serif ;
+	font-size: 40px;
+}
+.hdfcpara{
+	font-family:'Poppins', sans-serif ;
+	font-size: 20px;
+}
 
 
