@@ -6,16 +6,28 @@
 	text-decoration: none;
 	color: black;
 	vertical-align: middle;
-	font-size: 20px;
+	font-size: 18px;
 	padding: 1%;
+	font-family: 'Poppins', sans-serif;
 }
 .signin{
 	border: 1px solid skyblue;
-	border-radius: 20px;
+	border-radius: 35px;
+	height: 1px;
+	color: white;
+	background-color: #00bbf2;
+}
+.signin:hover{
+	background-color: #0f4b8a;
+}
+.span{
+	color: white;
 }
 .section1{
 	font-size: 25px;
 	text-align: center;
+	font-size: 25px;
+	font-family: 'Poppins', sans-serif;
 }
 .two{
 	/*border: 1px solid red;*/
@@ -195,7 +207,7 @@
 	background-color: #0f4b8a;
 }
 .sec5{
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	background-color: #f5f7fa;
 }
 .s5head{
@@ -307,7 +319,7 @@
 	margin-left: 10%;
 }
 .learnmore{
-	border: 1px solid #00bbf2;
+	/*border: 1px solid #00bbf2;*/
 	width: 70%;
 	font-size: 20px;
 	border-radius: 30px;
@@ -318,11 +330,11 @@
 	font-family:'Poppins', sans-serif ;
 }
 .hdfc{
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	border-radius: 20px;
 	margin-top: 40px;
 	background-color: white;
-	width: 40%;
+	width: 38%;
 	margin-left: 50px;
 	padding: 5% 2% 0% 4%;
 }
@@ -333,6 +345,83 @@
 .hdfcpara{
 	font-family:'Poppins', sans-serif ;
 	font-size: 20px;
+}
+.sbi{
+	/*border: 1px solid red;*/
+	border-radius: 20px;
+	margin-top: 40px;
+	background-color: white;
+	width: 38%;
+	margin-left: 50px;
+	padding: 9% 2% 0% 4%;
+}
+.indiaa{
+	font-family:'Poppins', sans-serif ;
+	font-size: 40px;
+}
+.indiaapara{
+	font-family:'Poppins', sans-serif ;
+	font-size: 20px;
+}
+.twoparts{
+	display: flex;
+}
+.sec5{
+	margin-bottom: 10%;
+}
+.fin{
+	font-family:'Poppins', sans-serif ;
+	font-size: 45px;
+	margin-top: 5%;
+	margin-left: 4%;
+}
+.sec6{
+	/*border: 1px solid red;*/
+}
+.fullbank{
+	/*border: 1px solid red;*/
+	width: 95%;
+	padding: 3% 0% 3% 4%;
+	display: flex;
+	justify-content: space-between;
+}
+.s6i1{
+	margin-bottom: 4%;
+}
+.sincere{
+	font-family:'Poppins', sans-serif ;
+	font-size: 35px;
+}
+.sincerepara{
+	font-family:'Poppins', sans-serif ;	
+	font-size: 16px;
+	margin-bottom: 12%;
+}
+.s6i2{
+	margin-right: 3%;
+}
+.sec7{
+	padding: 5% 2% 7% 2%;
+	background-color: #f5f7fa;
+	background-image: url("images/s7bgm.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.moun{
+	/*border: 1px solid red;*/
+	width: 50%;
+}
+.sec7{
+	display: flex;
+	justify-content: space-between;
+}
+.build{
+	font-family:'Poppins', sans-serif ;
+	font-size: 40px;
+}
+.buildpara{
+	font-family:'Poppins', sans-serif ;
+	margin-bottom: 5%;
 }
 
 
